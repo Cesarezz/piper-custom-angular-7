@@ -1,0 +1,11 @@
+.input-container{
+    width: 250px;    
+    height: 60px;
+    margin-left: 30%;
+}
+
+.pipe-container{
+    width: 250px;
+    height: 60px; 
+    margin-right: 30%;
+}
